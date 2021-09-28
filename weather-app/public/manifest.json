@@ -1,0 +1,50 @@
+{
+  
+    "name": "Weather Me",
+    "short_name": "Weather Me",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#0275d8",
+    "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "logo360x360.png",
+      "sizes": "360x360",
+      "type": "image/png"
+    },
+    {
+      "src": "logo384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}

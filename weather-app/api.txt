@@ -1,0 +1,2 @@
+BASE_URL = https://api.openweathermap.org/data/2.5/
+API_KEY = 71e9302dfe6d567b22917c7fe9e78c51
